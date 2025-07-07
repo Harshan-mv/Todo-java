@@ -1,0 +1,28 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+*.log
+*.pid
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# H2 Database files
+*.db
+*.trace.db
+*.lock.db
+data/
+
+# Temporary files
+*.tmp
+*.temp
