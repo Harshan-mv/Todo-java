@@ -30,4 +30,4 @@ ENV SPRING_PROFILES_ACTIVE=prod
 ENV JAVA_OPTS="-Xmx512m"
 
 # Run the application
-CMD ["java", "-jar", "target/todo-app-1.0.0.jar"]
+CMD ["java", "-jar", "target/todo-app-0.0.1-SNAPSHOT.jar"]
