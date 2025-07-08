@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Maven
+target/
+!target/todo-app-1.0.0.jar
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+*.md
+
+# Logs
+*.log
+logs/
+
+# H2 Database files (if any)
+*.db
+*.trace.db
+*.lock.db
+data/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Docker
+Dockerfile
+.dockerignore
